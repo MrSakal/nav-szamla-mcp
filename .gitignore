@@ -1,0 +1,13 @@
+# build
+dist/
+
+# deps
+node_modules/
+
+# local secrets - never commit (the real config lives in ~/.nav-szamla-mcp/config.json)
+config.json
+.env
+.env.*
+*.tmp
+
+*.tgz

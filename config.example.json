@@ -1,0 +1,12 @@
+{
+  "env": "test",
+  "login": "<NAV_TECHNICAL_USER_LOGIN>",
+  "password": "<NAV_TECHNICAL_USER_PASSWORD>",
+  "taxNumber": "<8_DIGIT_TAX_NUMBER>",
+  "signatureKey": "<SIGNATURE_KEY>",
+  "exchangeKey": "<EXCHANGE_KEY>",
+  "software": {
+    "devName": "<YOUR_NAME>",
+    "devContact": "<YOUR_EMAIL>"
+  }
+}
